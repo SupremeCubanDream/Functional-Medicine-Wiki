@@ -20,40 +20,40 @@ Whether you're a student, healthcare professional, researcher, educator, or simp
 
 ---
 
-# Table of Contents
+## Table of Contents
 
-* Quick Start
-* Why This Project Exists
-* Benefits of a Functional Medicine Wiki
-* Repository Structure
-* What You'll Find
-* Key Features
-* Who This Is For
-* Contributing
-* Project Roadmap
-* License
-* Medical Disclaimer
-* Vision
+- [Quick Start](#quick-start)
+- [Why This Project Exists](#why-this-project-exists)
+- [Benefits of a Functional Medicine Wiki](#benefits-of-a-functional-medicine-wiki)
+- [Repository Structure](#repository-structure)
+- [What You'll Find](#what-youll-find)
+- [Key Features](#key-features)
+- [Who This Is For](#who-this-is-for)
+- [Contributing](#contributing)
+- [Project Roadmap](#project-roadmap)
+- [License](#license)
+- [Medical Disclaimer](#medical-disclaimer)
+- [Vision](#vision)
 
 ---
 
-# Quick Start
+## Quick Start
 
 ### New to the Wiki?
 
-1. Browse the topic folders.
-2. Start with areas that interest you most.
+1. Browse the topic folders in [`docs/`](./docs/).
+2. Start with an area that interests you most.
 3. Follow links between related concepts.
 4. Explore references for additional learning.
 5. Contribute improvements if you'd like to help.
 
 Suggested learning path:
 
-Physiology → Biomarkers → Nutrition → Mechanisms → Clinical Patterns → Research
+**Physiology → Biomarkers → Nutrition → Mechanisms → Clinical Patterns → Research**
 
 ---
 
-# Why This Project Exists
+## Why This Project Exists
 
 Medical knowledge continues to grow at an extraordinary pace.
 
@@ -63,26 +63,24 @@ The repository is intentionally lightweight so anyone can fork it, customize it,
 
 ---
 
-# Benefits of a Functional Medicine Wiki
+## Benefits of a Functional Medicine Wiki
 
 Unlike a traditional textbook, a wiki continuously evolves through community contributions.
 
 Benefits include:
 
-* Easy-to-search educational content
-* Connected systems biology concepts
-* Community improvements
-* Open-source collaboration
-* Living educational resource
-* Expandable knowledge base
-* Beginner-friendly organization
-* Evidence-informed learning
+- Easy-to-search educational content
+- Connected systems biology concepts
+- Community improvements
+- Open-source collaboration
+- Living educational resource
+- Expandable knowledge base
+- Beginner-friendly organization
+- Evidence-informed learning
 
 ---
 
-# Repository Structure
-
-Example structure:
+## Repository Structure
 
 ```text
 docs/
@@ -100,60 +98,55 @@ docs/
 
 ---
 
-# What You'll Find
+## What You'll Find
 
 Topics may include:
 
-* Functional Medicine
-* Systems Biology
-* Human Physiology
-* Laboratory Biomarkers
-* Nutrition
-* Micronutrients
-* Mitochondrial Health
-* Gut Microbiome
-* Hormonal Health
-* Lifestyle Medicine
-* Environmental Medicine
-* Clinical Mechanisms
-* Root Cause Analysis
-* Educational Diagrams
-* Scientific References
+- [Biomarkers](./docs/biomarkers/)
+- [Physiology](./docs/physiology/)
+- [Nutrition](./docs/nutrition/)
+- [Microbiome](./docs/microbiome/)
+- [Hormones](./docs/hormones/)
+- [Mitochondria](./docs/mitochondria/)
+- [Environmental Health](./docs/environmental-health/)
+- [Laboratory Testing](./docs/laboratory-testing/)
+- [Research](./docs/research/)
+- [Glossary](./docs/glossary/)
 
 As additional articles are contributed, this knowledge base will continue to expand.
 
 ---
 
-# Key Features
+## Key Features
 
-* Open Source
-* Community Driven
-* Markdown Based
-* Easy to Search
-* Beginner Friendly
-* Evidence Informed
-* Organized Learning
-* Easy to Fork
-* Lightweight Repository
+- Open Source
+- Community Driven
+- Markdown Based
+- Easy to Search
+- Beginner Friendly
+- Evidence Informed
+- Organized Learning
+- Easy to Fork
+- Lightweight Repository
 
 ---
 
-# Who Is This For?
+## Who This Is For?
 
 Designed for:
 
-* Students
-* Healthcare Professionals
-* Functional Medicine Practitioners
-* Nutrition Professionals
-* Researchers
-* Educators
-* Health Coaches
-* Lifelong Learners
+- Students
+- Healthcare Professionals
+- Functional Medicine Practitioners
+- Nutrition Professionals
+- Researchers
+- Educators
+- Health Coaches
+- Lifelong Learners
 
 ---
 
-# Contributing
+## Contributing
 
 We welcome contributions from the community.
 
@@ -183,37 +176,39 @@ git push origin my-improvement
 
 Whenever possible:
 
-* Cite peer-reviewed literature.
-* Reference reputable scientific sources.
-* Distinguish established evidence from emerging hypotheses.
-* Write clearly and respectfully.
+- Cite peer-reviewed literature.
+- Reference reputable scientific sources.
+- Distinguish established evidence from emerging hypotheses.
+- Write clearly and respectfully.
+
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for more detail.
 
 ---
 
-# Project Roadmap
+## Project Roadmap
 
 Current priorities include:
 
-* Expand biomarker library
-* Improve physiology documentation
-* Add laboratory interpretation guides
-* Expand nutrition content
-* Improve internal cross-linking
-* Grow community contributions
+- Expand biomarker library
+- Improve physiology documentation
+- Add laboratory interpretation guides
+- Expand nutrition content
+- Improve internal cross-linking
+- Grow community contributions
 
 Future enhancements are driven by community participation.
 
 ---
 
-# License
+## License
 
-This repository is open source.
+This repository is open source under the MIT License.
 
-Please see the LICENSE file for complete licensing terms.
+Please see [`LICENSE`](./LICENSE) for complete licensing terms.
 
 ---
 
-# Medical Disclaimer
+## Medical Disclaimer
 
 **Educational Purposes Only**
 
@@ -231,7 +226,7 @@ By using this repository, you acknowledge and accept these terms.
 
 ---
 
-# Vision
+## Vision
 
 Knowledge becomes more valuable when it is shared.
 
