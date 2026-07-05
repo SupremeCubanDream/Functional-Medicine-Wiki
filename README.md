@@ -14,7 +14,7 @@
 
 The **Blueprint Functional Health Wiki** is an open-source educational resource that organizes functional medicine concepts into an interconnected knowledge base.
 
-Instead of treating health topics as isolated subjects, the wiki connects physiology, laboratory biomarkers, nutrition, lifestyle, genetics, environmental factors, and systems biology to help learners understand how the human body functions as an integrated system.
+Instead of treating health topics as isolated subjects, the wiki connects physiology, laboratory biomarkers, nutrition, lifestyle, genetics, environmental factors, and systems biology to help learners see the bigger picture.
 
 Whether you're a student, healthcare professional, researcher, educator, or simply curious about functional medicine, this project provides a structured place to learn, contribute, and grow.
 
@@ -37,19 +37,51 @@ Whether you're a student, healthcare professional, researcher, educator, or simp
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
-### New to the Wiki?
+### 📚 Just here to learn?
 
-1. Browse the topic folders in [`docs/`](./docs/).
-2. Start with an area that interests you most.
-3. Follow links between related concepts.
-4. Explore references for additional learning.
-5. Contribute improvements if you'd like to help.
+You don't need to install anything.
 
-Suggested learning path:
+1. Browse the [`docs/`](./docs/) folder.
+2. Choose a topic that interests you.
+3. Read the articles.
+4. Follow links to related topics.
+5. Explore the references for further learning.
 
+**Suggested learning path:**
 **Physiology → Biomarkers → Nutrition → Mechanisms → Clinical Patterns → Research**
+
+### 🍴 Want your own copy?
+
+Click **Fork** at the top of this repository to create your own copy.
+
+You can then customize it however you'd like for your own educational purposes.
+
+### 💻 Want to contribute?
+
+#### If you're familiar with GitHub:
+
+1. Fork this repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a Pull Request.
+
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for detailed guidelines.
+
+#### For developers who prefer the command line:
+
+```bash
+git clone https://github.com/SupremeCubanDream/Functional-Medicine-Wiki.git
+cd Functional-Medicine-Wiki
+
+git checkout -b my-improvement
+# Edit Markdown files in docs/
+git commit -m "Improve biomarker documentation"
+git push origin my-improvement
+```
+
+Then open a Pull Request on GitHub.
 
 ---
 
@@ -150,30 +182,6 @@ Designed for:
 
 We welcome contributions from the community.
 
-Getting started is simple:
-
-1. Fork this repository.
-2. Create a new branch.
-
-```bash
-git checkout -b my-improvement
-```
-
-3. Make your improvements.
-4. Commit your changes.
-
-```bash
-git commit -m "Improve biomarker documentation"
-```
-
-5. Push your branch.
-
-```bash
-git push origin my-improvement
-```
-
-6. Submit a Pull Request.
-
 Whenever possible:
 
 - Cite peer-reviewed literature.
@@ -181,7 +189,7 @@ Whenever possible:
 - Distinguish established evidence from emerging hypotheses.
 - Write clearly and respectfully.
 
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for more detail.
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for more detail and contribution guidelines.
 
 ---
 
