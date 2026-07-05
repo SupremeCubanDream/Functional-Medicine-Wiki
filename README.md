@@ -1,102 +1,215 @@
-# Blueprint Functional Health  Wiki
+# Blueprint Functional Health Wiki
 
-## Open-Source Functional Medicine Knowledge Base
+### Open-Source Functional Medicine Knowledge Base
 
-Welcome to the **Blueprint Functional Health Wiki**—a free, open-source educational resource designed to organize functional medicine knowledge into an easy-to-navigate, community-driven reference.
+*A free, community-driven educational resource for learning and exploring functional medicine through systems biology.*
 
-Our mission is simple:
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue.svg)](#contributing)
+[![Educational Resource](https://img.shields.io/badge/Purpose-Education-orange.svg)](#medical-disclaimer)
 
-**Make systems biology and functional medicine knowledge more accessible, understandable, and connected for students, healthcare professionals, researchers, and lifelong learners.**
+---
 
-Rather than presenting health topics as isolated facts, this wiki organizes information around the interconnected biology of the human body, helping users understand how physiology, laboratory biomarkers, nutrition, lifestyle, genetics, environmental factors, and clinical mechanisms relate to one another.
+## Helping Make Functional Medicine Knowledge More Accessible
+
+The **Blueprint Functional Health Wiki** is an open-source educational resource that organizes functional medicine concepts into an interconnected knowledge base.
+
+Instead of treating health topics as isolated subjects, the wiki connects physiology, laboratory biomarkers, nutrition, lifestyle, genetics, environmental factors, and systems biology to help learners understand how the human body functions as an integrated system.
+
+Whether you're a student, healthcare professional, researcher, educator, or simply curious about functional medicine, this project provides a structured place to learn, contribute, and grow.
+
+---
+
+# Table of Contents
+
+* Quick Start
+* Why This Project Exists
+* Benefits of a Functional Medicine Wiki
+* Repository Structure
+* What You'll Find
+* Key Features
+* Who This Is For
+* Contributing
+* Project Roadmap
+* License
+* Medical Disclaimer
+* Vision
+
+---
+
+# Quick Start
+
+### New to the Wiki?
+
+1. Browse the topic folders.
+2. Start with areas that interest you most.
+3. Follow links between related concepts.
+4. Explore references for additional learning.
+5. Contribute improvements if you'd like to help.
+
+Suggested learning path:
+
+Physiology → Biomarkers → Nutrition → Mechanisms → Clinical Patterns → Research
 
 ---
 
 # Why This Project Exists
 
-Modern healthcare knowledge is expanding faster than any individual can keep up with.
+Medical knowledge continues to grow at an extraordinary pace.
 
-The Blueprint Functional Health Wiki serves as a collaborative educational resource where contributors can organize, improve, and expand evidence-informed knowledge for everyone.
+This project exists to make functional medicine concepts easier to organize, navigate, and understand through collaborative learning.
 
-This repository is intentionally lightweight and open. You are encouraged to fork it, customize it, and build upon it for your own educational, research, or learning projects.
+The repository is intentionally lightweight so anyone can fork it, customize it, and build upon it for educational purposes.
+
+---
+
+# Benefits of a Functional Medicine Wiki
+
+Unlike a traditional textbook, a wiki continuously evolves through community contributions.
+
+Benefits include:
+
+* Easy-to-search educational content
+* Connected systems biology concepts
+* Community improvements
+* Open-source collaboration
+* Living educational resource
+* Expandable knowledge base
+* Beginner-friendly organization
+* Evidence-informed learning
+
+---
+
+# Repository Structure
+
+Example structure:
+
+```text
+docs/
+├── biomarkers/
+├── physiology/
+├── nutrition/
+├── microbiome/
+├── hormones/
+├── mitochondria/
+├── environmental-health/
+├── laboratory-testing/
+├── research/
+└── glossary/
+```
 
 ---
 
 # What You'll Find
 
-Topics throughout the wiki may include:
+Topics may include:
 
-* Functional medicine concepts
-* Human physiology
-* Systems biology
-* Laboratory biomarkers
+* Functional Medicine
+* Systems Biology
+* Human Physiology
+* Laboratory Biomarkers
 * Nutrition
 * Micronutrients
-* Lifestyle medicine
-* Mitochondrial health
-* Gut microbiome
-* Hormonal health
-* Environmental medicine
-* Clinical mechanisms
-* Root-cause thinking
-* Research summaries
-* Educational diagrams
-* Evidence-based references
+* Mitochondrial Health
+* Gut Microbiome
+* Hormonal Health
+* Lifestyle Medicine
+* Environmental Medicine
+* Clinical Mechanisms
+* Root Cause Analysis
+* Educational Diagrams
+* Scientific References
 
-As the community grows, so will the breadth and quality of the knowledge base.
+As additional articles are contributed, this knowledge base will continue to expand.
 
 ---
 
 # Key Features
 
-* Community-driven knowledge base
-* Open-source and freely available
-* Markdown-based documentation
-* Organized, searchable structure
-* Evidence-informed educational content
-* Easy to fork and customize
-* Beginner-friendly while useful for advanced learners
-* Designed for continuous community improvement
+* Open Source
+* Community Driven
+* Markdown Based
+* Easy to Search
+* Beginner Friendly
+* Evidence Informed
+* Organized Learning
+* Easy to Fork
+* Lightweight Repository
 
 ---
 
 # Who Is This For?
 
-This project is intended for:
+Designed for:
 
 * Students
-* Healthcare professionals
-* Functional medicine practitioners
-* Nutrition professionals
-* Health coaches
+* Healthcare Professionals
+* Functional Medicine Practitioners
+* Nutrition Professionals
 * Researchers
 * Educators
-* Curious lifelong learners
-
-No prior programming experience is required to explore or contribute.
+* Health Coaches
+* Lifelong Learners
 
 ---
 
 # Contributing
 
-Contributions are welcome.
+We welcome contributions from the community.
 
-If you would like to improve an article, fix an error, expand a topic, or add new educational content, please submit a pull request.
+Getting started is simple:
+
+1. Fork this repository.
+2. Create a new branch.
+
+```bash
+git checkout -b my-improvement
+```
+
+3. Make your improvements.
+4. Commit your changes.
+
+```bash
+git commit -m "Improve biomarker documentation"
+```
+
+5. Push your branch.
+
+```bash
+git push origin my-improvement
+```
+
+6. Submit a Pull Request.
 
 Whenever possible:
 
-* Cite reputable scientific sources.
-* Reference peer-reviewed literature.
-* Clearly distinguish established evidence from emerging hypotheses.
-* Write with clarity, accuracy, and respect for differing scientific viewpoints.
+* Cite peer-reviewed literature.
+* Reference reputable scientific sources.
+* Distinguish established evidence from emerging hypotheses.
+* Write clearly and respectfully.
 
-Our goal is continuous improvement through collaborative learning.
+---
+
+# Project Roadmap
+
+Current priorities include:
+
+* Expand biomarker library
+* Improve physiology documentation
+* Add laboratory interpretation guides
+* Expand nutrition content
+* Improve internal cross-linking
+* Grow community contributions
+
+Future enhancements are driven by community participation.
 
 ---
 
 # License
 
-This repository is released as open source. Please see the LICENSE file for complete licensing information.
+This repository is open source.
+
+Please see the LICENSE file for complete licensing terms.
 
 ---
 
@@ -106,23 +219,22 @@ This repository is released as open source. Please see the LICENSE file for comp
 
 The Blueprint Functional Health Wiki is provided solely for educational, informational, and research purposes.
 
-This repository does **not** provide medical advice and should **not** be used as a substitute for professional medical evaluation, diagnosis, or treatment.
+Nothing contained within this repository constitutes medical advice, diagnosis, or treatment. The content should not replace consultation with a qualified physician or other licensed healthcare professional.
 
-The information contained within this repository reflects educational content contributed by the community and may evolve over time. Although contributors are encouraged to reference reputable scientific literature, no guarantee is made regarding the completeness, accuracy, or currency of any information.
+Although contributors are encouraged to reference reputable scientific literature and evidence-based resources, the information may be incomplete, evolve over time, or become outdated as new research emerges.
 
-Always consult a qualified physician or other licensed healthcare professional before making medical decisions, changing medications, beginning supplements, or modifying treatment plans.
+Users are responsible for independently verifying information before applying it in educational, research, or clinical settings.
 
-Neither the repository owner nor any contributors assume responsibility or liability for decisions made based on the information contained within this project.
+Neither the repository owner nor contributors assume responsibility or liability for decisions, outcomes, or damages resulting from the use of this repository.
 
-Use of this repository constitutes acceptance of these terms.
+By using this repository, you acknowledge and accept these terms.
 
 ---
 
-# Our Vision
+# Vision
 
-Knowledge grows when it is shared.
+Knowledge becomes more valuable when it is shared.
 
-By building an open, community-driven educational resource, we hope to make functional medicine knowledge more organized, more accessible, and more useful for learners around the world.
+Our vision is to create a collaborative, community-driven educational resource that helps make functional medicine knowledge more organized, more accessible, and more useful for learners around the world.
 
-Whether you simply browse, contribute one correction, or build your own customized version, thank you for helping advance collaborative learning.
-
+Whether you read one article, contribute one improvement, or build your own customized version, thank you for helping advance open scientific learning.
